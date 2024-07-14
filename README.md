@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramkrishnachakraborty , I work as quantitative python developer
 - 🌱 I’m currently learning  web3 development
 - 💞️ I’m looking to collaborate on web3 projects
-- 📫 How to reach me  ramkc.2891@gmail.com
+- 📫 How to reach me  chakrabortyramkrishna258@gmail.com
 
 
 <!---
